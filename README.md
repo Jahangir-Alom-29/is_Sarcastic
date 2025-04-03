@@ -1,6 +1,6 @@
-#Sarcasm Detection using LSTM
+# Sarcasm Detection using LSTM
 
-##Overview
+## Overview
 This project builds an LSTM-based sarcasm detection model using news headlines. The dataset is processed using NLP techniques and trained with deep learning.
 
 ## Features  
