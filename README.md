@@ -6,5 +6,5 @@ This project builds an LSTM-based sarcasm detection model using news headlines. 
 ## Features  
 - **Dataset**: Sarcasm labeled news headlines
 - **Preprocessing**: Tokenization, padding
-- **Model**:LSTM with word embeddings
+- **Model**: LSTM with word embeddings
 - **Evaluation**: Accuracy, loss metrics
